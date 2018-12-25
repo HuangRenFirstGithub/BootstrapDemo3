@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url(../images/background.jpg);
+	margin-top: 0px;
+
+}
+
+.imgstep1{
+	float: left;
+	border-style: none;
+	background-color: #4489CA;
+	vertical-align: middle;
+}
+.imgstep2{
+	background-color: #EA69A2;
+	float: left;
+	border-style: none;
+	vertical-align: middle;	
+}
+.imgstep3{
+	background-color:#8956A1;
+	float: left;
+	border-style: none;
+	vertical-align: middle;	
+}
+.imgfFooter img{
+	width: 100%;
+}
